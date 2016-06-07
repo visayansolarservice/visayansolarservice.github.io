@@ -1,0 +1,6 @@
+*** TO DO ***
+
+[ ] Layout in Ps - Xteve
+[ ] Implement layout - Khail
+
+*** DONE ***
